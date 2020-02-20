@@ -1,4 +1,4 @@
-# EXTRAS
+# 🔥 EXTRAS
 
 ## TEMPLATES
 
