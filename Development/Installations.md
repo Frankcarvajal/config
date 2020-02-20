@@ -102,6 +102,6 @@ I will have my own vsc-installs sh script here, if you choose to use mine, don't
 
 [My vsc-installs.sh file](./vsc-installs.sh) or replace with yours.
 
-# MOVE ON TO 🔧 [CONFIGURATIONS](./Configurations.md)
+## MOVE ON TO 🔧 [CONFIGURATIONS](./Configurations.md)
 
-# BACK TO 🔨 [DEVELOPMENT](./Development.md)
+## BACK TO 🔨 [DEVELOPMENT](./Development.md)

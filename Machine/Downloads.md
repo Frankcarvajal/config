@@ -4,6 +4,8 @@ Applications to be downloaded depend on the company itself. Different companies 
 
 <img src="../Assets/Downloads.png" width="800" />
 
+### Cmd + Click on each to open link in a new browser tab for efficiency.
+
 ## 💻 Web Browsers
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Google Chrome](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMItcyF0NLe5wIVkPhkCh2CbgTQEAAYASAAEgLKs_D_BwE&gclsrc=aw.ds)
@@ -34,8 +36,8 @@ Applications to be downloaded depend on the company itself. Different companies 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 
-ONTO 🔨 [DEVELOPMENT](../Development/Development.md)
+## ONTO 🔨 [DEVELOPMENT](../Development/Development.md)
 
-BACK TO ⚖️ [SETTINGS](./Settings.md)
+## BACK TO ⚖️ [SETTINGS](./Settings.md)
 
-TO ROOT 💻 [MACHINE](./Machine.md)
+## TO ROOT 💻 [MACHINE](./Machine.md)

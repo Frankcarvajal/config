@@ -742,6 +742,6 @@ My snippets are for JavaScript, React, & Testing. You may want to use different 
 }
 ```
 
-# MOVE ON TO 🔥 [EXTRAS](../Extras/Extras.md)
+## MOVE ON TO 🔥 [EXTRAS](../Extras/Extras.md)
 
-# TO ROOT 🔨 [DEVELOPMENT](./Development.md)
+## TO ROOT 🔨 [DEVELOPMENT](./Development.md)

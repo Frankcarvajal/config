@@ -13,6 +13,6 @@ Modify to your preference.
 - Finder -> Root/Home Directory press `Cmd+Shift+.` to toggle/show hidden dot files
 - Machine Coding Font -> Keeping this Download separate from other downloads. Coding Font choices: $300+ Operator Mono, $40 Dank Mono, or $0 Victor Mono. I use Dank.sh 
 
-ONTO ⚡️ [DOWNLOADS](./Downloads.md)
+## ONTO ⚡️ [DOWNLOADS](./Downloads.md)
 
-BACK TO 💻 [MACHINE](./Machine.md)
+## BACK TO 💻 [MACHINE](./Machine.md)
