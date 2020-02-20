@@ -1,6 +1,6 @@
 # 📝 Notion
 
-Best Note taking / organization of notes for Mobile + Desktop outside of Google Calendar.
+Best Note taking / organization of notes for Mobile + Desktop.
 
 The company may have Confluence, Bootcamp, Google Drive, or Dropbox for sharing company specific notes, but those are private to the company.
 
