@@ -2,7 +2,7 @@
 
 Applications to be downloaded depend on the company itself. Different companies utilize different tools for communication whether it's e-mail, chat, file management, or even for code repositories. This may change this current list for you, in your cloned version of this repository, make adjustments.
 
-![Oh-My-Zsh]('../Assets/Downloads.png')
+<img src="../Assets/Downloads.png" width="800" />
 
 ## 💻 Web Browsers
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
@@ -34,7 +34,7 @@ Applications to be downloaded depend on the company itself. Different companies 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 
-ONTO 🔨 [DEVELOPMENT](../Development.md)
+ONTO 🔨 [DEVELOPMENT](../Development/Development.md)
 
 BACK TO ⚖️ [SETTINGS](./Settings.md)
 

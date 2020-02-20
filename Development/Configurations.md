@@ -1,5 +1,8 @@
 # 🔧 CONFIGURATIONS
 
+We need to configure global git, configure .zshrc/iTerm2/Aliases, & configure VSCode settings & snippets.
+
+
 ## 1. global git ignore
 In the root directory create a global git ignore file & open finder, open the hidden dot file in VSCode.
 ```
@@ -54,7 +57,7 @@ Install Oh-My-Zsh Framework with over 1200+ Contributors and over 200+ useful pl
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-![Oh-My-Zsh]('../Assets/Installing Oh-My-Zsh.png')
+<img src="./../Assets/Installing Oh-My-Zsh.png" width="800" />
 
 Create `.zshrc` file & open it to paste configurations:
 
@@ -152,21 +155,21 @@ is supplied in this theme's ~/.vscode/extensions folder or via
 
 [github.](https://github.com/enkia/tokyo-night-vscode-theme/blob/master/tokyo-night.itermcolors)
 
-![Oh-My-Zsh]('../Assets/itermcolors Import.png')
+<img src="../Assets/itermcolors Import.png" width="800" />
 
 ### Update iTerm Preferences Step by Step:
 
-![Oh-My-Zsh]('../Assets/iTerm Config 1.png')
+<img src="../Assets/iTerm Config 1.png" width="800" />
 
-![Oh-My-Zsh]('../Assets/iTerm Config 2.png')
+<img src="../Assets/iTerm Config 2.png" width="800" />
 
-![Oh-My-Zsh]('../Assets/iTerm Config 3.png')
+<img src="../Assets/iTerm Config 3.png" width="800" />
 
-![Oh-My-Zsh]('../Assets/iTerm Config 4.png')
+<img src="../Assets/iTerm Config 4.png" width="800" />
 
-![Oh-My-Zsh]('../Assets/iTerm Config 5.png')
+<img src="../Assets/iTerm Config 5.png" width="800" />
 
-![Oh-My-Zsh]('../Assets/iTerm Config 6.png')
+<img src="../Assets/iTerm Config 6.png" width="800" />
 
 ## 3. VSC Settings & Global Snippets
 Visiual Studio Code (Top Left) -> Preferences -> Settings -> Click little folded paper arrow icon in top right to toggle to JSON.
@@ -739,6 +742,6 @@ My snippets are for JavaScript, React, & Testing. You may want to use different 
 }
 ```
 
-# MOVE ON TO 🔥 [EXTRAS](./Extras.md)
+# MOVE ON TO 🔥 [EXTRAS](../Extras/Extras.md)
 
 # TO ROOT 🔨 [DEVELOPMENT](./Development.md)
