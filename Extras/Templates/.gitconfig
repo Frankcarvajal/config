@@ -1,0 +1,10 @@
+[core]
+	excludesfile = /Users/Zion/.gitignore
+[user]
+	name = Franklin Carvajal
+	email =
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[commit]
+	template = /Users/zion/.stCommitMsg
