@@ -97,6 +97,9 @@ touch vsc-installs.sh && open .`
 Right click it in finder and open either as text file or choosing VSCode always as the option (what I prefer), paste in the list from the first command & save.
 
 Execute the sh script & await for installation.
+```
+sh vsc-installs.sh`
+```
 
 I will have my own vsc-installs sh script here, if you choose to use mine, don't forget to remove my Salesforce extensions if not working with Salesforce, add others depending on utilization or need.
 
