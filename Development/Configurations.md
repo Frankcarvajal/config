@@ -180,60 +180,71 @@ I like to keep my default VSC Settings to a bare minimum on new machines & add w
 
 ```JSON
 {
-    "editor.fontFamily": "Dank Mono",
-    "editor.fontSize": 15,
-    "editor.fontLigatures": true,
-    "editor.multiCursorModifier": "alt",
-    "editor.mouseWheelZoom": true,
-    "editor.smoothScrolling": true,
-    "editor.formatOnPaste": false,
-    "editor.formatOnSave": true,
-    "editor.wordWrap": "on",
-    "editor.wordWrapColumn": 99,
-    "editor.tabSize": 2,
-    "editor.tabCompletion": "on",
-    "editor.renderIndentGuides": false,
-    "editor.wordBasedSuggestions": true,
-    "editor.snippetSuggestions": "top",
-    "editor.renderWhitespace": "all",
-    "editor.minimap.enabled": false,
-    "editor.quickSuggestions": {
-        "other": true,
-        "comments": false,
-        "strings": false
-    },
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorTheme": "Tokyo Night Storm",
-    "workbench.panel.defaultLocation": "right",
-    "window.zoomLevel": 0,
-    "explorer.confirmDragAndDrop": false,
-    "explorer.confirmDelete": false,
-    "atomKeymap.promptV3Features": true,
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "javascript.preferences.quoteStyle": "single",
-    "javascript.implicitProjectConfig.experimentalDecorators": true,
-    "[javascript]": {
-        "editor.formatOnSave": false
-    },
-    "git.enableSmartCommit": true,
-    "gitlens.views.fileHistory.enabled": true,
-    "gitlens.views.lineHistory.enabled": true,
-    "gitlens.keymap": "chorded",
-    "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-        "suppressResultsExplorerNotice": false,
-        "suppressShowKeyBindingsNotice": true,
-        "suppressUpdateNotice": false,
-        "suppressWelcomeNotice": true,
-        "editor.fontSize": 16,
-        "files.autoSave": "on",
-        "editor.tabSize": 2
-    },
+  "editor.wordWrapColumn": 99,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.quickSuggestions": {
+    "other": true,
+    "strings": false,
+    "comments": false
+  },
+  "editor.semanticHighlighting.enabled": false,
+  "editor.formatOnSave": true,
+  "editor.renderIndentGuides": false,
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "Dank Mono",
+  "editor.tabCompletion": "on",
+  "atomKeymap.promptV3Features": true,
+  "editor.fontLigatures": true,
+  "editor.wordBasedSuggestions": true,
+  "editor.accessibilitySupport": "off",
+  "editor.formatOnPaste": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 15,
+  "editor.minimap.enabled": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.multiCursorModifier": "alt",
+  "editor.wordWrap": "on",
+  "editor.suggestSelection": "first",
+  "editor.snippetSuggestions": "top",
+  "editor.smoothScrolling": true,
+  "window.zoomLevel": 1,
+  "workbench.iconTheme": "vscode-great-icons",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "workbench.colorTheme": "Firefox Quantum Dark",
+  "workbench.editor.enablePreview": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "terminal.integrated.fontSize": 24,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": ["--rcfile=/path/to/.pylintrc"],
+  "git.enableSmartCommit": true,
+  "gitlens.keymap": "chorded",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false
+  },
+  "github.copilot.inlineSuggest.enable": true,
+  "github.copilot.enable": {
+    "markdown": false,
+    "python": true,
+    "javascript": true
+  }
 }
 ```
 
